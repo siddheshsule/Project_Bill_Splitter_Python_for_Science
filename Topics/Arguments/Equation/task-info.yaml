@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  highlight_level: NONE
+  text: |-
+    def equation_writing(...):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10302#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 03 Jul 2023 19:06:55 UTC"
+record: -1
+submission_language: python3

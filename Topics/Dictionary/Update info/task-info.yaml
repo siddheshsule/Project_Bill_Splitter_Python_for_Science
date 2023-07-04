@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  highlight_level: NONE
+  text: |-
+    # please work with the variable children
+    # update the dict and print it
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9145#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 03 Jul 2023 19:43:20 UTC"
+record: -1
+submission_language: python3
